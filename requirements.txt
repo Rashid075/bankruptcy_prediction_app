@@ -1,18 +1,6 @@
-<<<<<<< HEAD
 streamlit
 scikit-learn
 pandas
 numpy
-plotly
-seaborn
-matplotlib
-=======
-streamlit
-scikit-learn
-pandas
-numpy
-plotly
-seaborn
-matplotlib
->>>>>>> ab8709cd2df3bdfa6ea3874580bebb78b3be8ee5
 joblib
+plotly
